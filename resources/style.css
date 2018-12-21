@@ -1,0 +1,15 @@
+.droplet-form {
+    border: solid #f7f7f9;
+    padding: 20px;
+}
+
+.frame {
+    width: 100%;
+}
+
+.status {
+    border: solid #f7f7f9;
+    margin-bottom: 20px;
+    overflow: scroll;
+    padding: 20px;
+}
